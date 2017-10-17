@@ -21,10 +21,10 @@ body {
 }
 
 .description,
-.copyright {
+#copyright {
 	color: Gray;
 }
 
-.copyright {
+#copyright {
 	text-align: Right;
 }
